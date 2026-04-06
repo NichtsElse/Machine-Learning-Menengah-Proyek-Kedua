@@ -1,9 +1,0 @@
-keras==3.8.0
-matplotlib==3.10.0
-numpy==1.26.4
-pandas==2.2.2
-Pillow==11.1.0
-protobuf==5.29.3
-scikit-learn==1.6.1
-tensorflow==2.18.0
-tensorflowjs==4.22.0
