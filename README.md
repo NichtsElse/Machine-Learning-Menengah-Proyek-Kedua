@@ -55,8 +55,6 @@ This project is designed to classify images using the Intel Image Classification
 └── README.md
 ```
 
-## 📸 Screenshots
-
 ## 🤝 Contributing
 Contributions are welcome! Please submit a pull request with your changes and a brief description of what you've added or fixed.
 
@@ -64,8 +62,8 @@ Contributions are welcome! Please submit a pull request with your changes and a 
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For questions or concerns, please contact us at [username@email.com](mailto:username@email.com).
+For questions or concerns, please contact us at [rizki45645@email.com](mailto:rizki45645@email.com).
 
 ## 💖 Thanks Message
 Thank you for using our image classification project! We hope it helps you with your image classification needs.
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
+This is written by NichtsElse
